@@ -1,4 +1,4 @@
-3
+4
 5 5
 S AB BA SS AC BD
 C SB
@@ -27,12 +27,14 @@ aaaaaaaaaaab
 b
 bb
 abb
-5 3
-S aDBBC aBBC
+7 3
+S XC
+X AY AZ
+Y BB
+Z XY
 A a
 B b
-C cC c
-D aDBB aBB
+C CC c
 abbc
 aaabbbbbccccc
 aabbbbcc

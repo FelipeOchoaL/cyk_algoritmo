@@ -16,34 +16,34 @@ Y queremos analizar la cadena aabb.  <br>
 Por ejemplo, considera la celda dp[0][2]. La subcadena desde 0 hasta 2 es 'aa', que puede ser generada por 'AA'. Como tenemos la regla de producción 'S -> AA', añadimos 'S' a dp[0][2].  <br>
 4. Continuamos este proceso hasta que la tabla DP esté completamente llena. Al final, si el símbolo inicial de la gramática (en este caso, 'S') está en dp[0][n], entonces la cadena puede ser generada por la gramática.  
 Aquí está cómo se ve la tabla DP después de cada paso: <br>
-Paso 1:
-[{}, {}, {}, {}, {}]
-[{}, {}, {}, {}, {}]
-[{}, {}, {}, {}, {}]
-[{}, {}, {}, {}, {}]
+Paso 1: <br>
+[{}, {}, {}, {}, {}] <br>
+[{}, {}, {}, {}, {}] <br>
+[{}, {}, {}, {}, {}] <br>
+[{}, {}, {}, {}, {}] <br>
 
-Paso 2:
-[{A}, {}, {}, {}, {}]
-[{}, {A}, {}, {}, {}]
-[{}, {}, {B}, {}, {}]
-[{}, {}, {}, {B}, {}]
+Paso 2: <br>
+[{A}, {}, {}, {}, {}] <br>
+[{}, {A}, {}, {}, {}] <br>
+[{}, {}, {B}, {}, {}] <br>
+[{}, {}, {}, {B}, {}] <br>
 
-Paso 3:
-[{A}, {S}, {}, {}, {}]
-[{}, {A}, {S}, {}, {}]
-[{}, {}, {B}, {S}, {}]
-[{}, {}, {}, {B}, {}]
+Paso 3: <br>
+[{A}, {S}, {}, {}, {}] <br>
+[{}, {A}, {S}, {}, {}] <br>
+[{}, {}, {B}, {S}, {}] <br>
+[{}, {}, {}, {B}, {}] <br>
 
-Paso 4:
-[{A}, {S}, {S}, {}, {}]
-[{}, {A}, {S}, {S}, {}]
-[{}, {}, {B}, {S}, {S}]
-[{}, {}, {}, {B}, {}]
+Paso 4: <br>
+[{A}, {S}, {S}, {}, {}] <br>
+[{}, {A}, {S}, {S}, {}] <br>
+[{}, {}, {B}, {S}, {S}] <br>
+[{}, {}, {}, {B}, {}] <br>
 
-Paso Final:
-[{A}, {S}, {S}, {S}, {S}]
-[{}, {A}, {S}, {S}, {S}]
-[{}, {}, {B}, {S}, {S}]
-[{}, {}, {}, {B}, {}]
+Paso Final: <br>
+[{A}, {S}, {S}, {S}, {S}] <br>
+[{}, {A}, {S}, {S}, {S}] <br>
+[{}, {}, {B}, {S}, {S}] <br>
+[{}, {}, {}, {B}, {}] <br> 
 
 Sustentación Jacobo Giraldo : https://eafit-my.sharepoint.com/:v:/g/personal/jgiraldoz_eafit_edu_co/EZxNn1ugAohDlkulnsM6tTEBbEMFQGkzArox78siBdE0XA?e=LlFmGO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D

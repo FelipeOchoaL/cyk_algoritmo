@@ -47,6 +47,6 @@ Paso Final: <br>
 [{}, {}, {}, {B}, {}] <br> 
 
 Sustentación Jacobo Giraldo : <br> 
-https://eafit-my.sharepoint.com/:v:/g/personal/jgiraldoz_eafit_edu_co/EZxNn1ugAohDlkulnsM6tTEBbEMFQGkzArox78siBdE0XA?e=LlFmGO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+https://eafit-my.sharepoint.com/:v:/g/personal/jgiraldoz_eafit_edu_co/EZxNn1ugAohDlkulnsM6tTEBbEMFQGkzArox78siBdE0XA?e=LlFmGO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br>
 Sustentacion Felipe Ochoa: <br>
 https://youtu.be/x-X5mZXJgzw
